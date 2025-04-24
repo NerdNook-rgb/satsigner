@@ -9077,6 +9077,11 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
+libportal-react-native@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/libportal-react-native/-/libportal-react-native-0.3.4.tgz#51b26611d04b5fb46240e480065e1eafe1f10e26"
+  integrity sha512-VwCoM/8fn0WiDLrHEIwvvMxVKueTd1TCHHTMi886YW1zAM3CRrUYTKEPKmPPUfk1UO4OB8Vy6KNs2KoyCwePVg==
+
 lighthouse-logger@^1.0.0:
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/lighthouse-logger/-/lighthouse-logger-1.4.2.tgz#aef90f9e97cd81db367c7634292ee22079280aaa"
